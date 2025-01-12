@@ -1568,7 +1568,7 @@ namespace LCD1IN8 {
     }
     //% blockId=LCD_SetWindows
     //% blockGap=8
-    //% block="SetWindows %Xstart %Ystart %Xend %Yend"
+    //% block="SetWindows|Xstart %Xstart|Ystart %Ystart|Xend %Xend|Yend %Yend"
     //% weight=195
     export function LCD_SetWindows(Xstart: number, Ystart: number, Xend: number, Yend: number): void {
         //set the X coordinates
