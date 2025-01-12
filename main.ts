@@ -1566,7 +1566,10 @@ namespace LCD1IN8 {
         }
         pins.digitalWritePin(DigitalPin.P16, 1);
     }
-
+    //% blockId=LCD_SetWindows
+    //% blockGap=8
+    //% block="SetWindows %Xstart %Ystart %Xend %Yend"
+    //% weight=195
     export function LCD_SetWindows(Xstart: number, Ystart: number, Xend: number, Yend: number): void {
         //set the X coordinates
         LCD_WriteReg(0x2A);
