@@ -1,6 +1,6 @@
-# LCD1in8
+# LCD1in8-RSD edit
 
-waveshare electronics
+waveshare electronics-RSD edit
 
 ![Waveshare_logo.png](Waveshare_logo.png.png)
 
