@@ -1,5 +1,5 @@
 /*****************************************************************************
-* | File      	:   1in8LCD.ts
+* | File      	:   1in8LCD-rsdedit.ts
 * | Author      :   hnwangkg-ezio for Waveshare 
 * | Function    :   Contorl 1.8inch lcd Show
 * | Info        :
