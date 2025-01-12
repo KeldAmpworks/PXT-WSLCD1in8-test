@@ -1,7 +1,7 @@
 {
-    "name": "LCD1in8",
+    "name": "LCD1in8-RDS Edit",
     "version": "2.0.0",
-    "description": "waveshare electronics",
+    "description": "waveshare electronics, RDS edit",
     "dependencies": {
         "core": "*",
         "radio": "*"
