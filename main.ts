@@ -1653,7 +1653,7 @@ namespace LCD1IN8RSD {
 	    
     //% blockId=LCD_Display_Window
     //% blockGap=8
-    //% block="LCD_Display_Window Xstart| %Xstart Ystart| %Ystart Xend| %Xend Yend| %Yend"
+    //% block="LCD_Display_Window |Xstart %Xstart| Ystart %Ystart|Xend %Xend|Yend %Yend"
     //% weight=190
     export function LCD_Display_Window(Xstart: number, Ystart: number, Xend: number, Yend: number): void {
         SPIRAM_Set_Mode(SRAM_STREAM_MODE);
